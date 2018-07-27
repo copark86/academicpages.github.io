@@ -80,6 +80,18 @@ Figure size with input
 	\end{figure}
 
 
+
+Figure others
+-------------------------------	
+Figure top
+	\begin{figure}[t]
+	\end{figure}
+	
+Figure bottom and multi colomn	
+	\begin{figure*}[b]
+	\end{figure*}
+	
+	
 Citation arrangement
 -------------------------------	
 	\usepackage{balance}
