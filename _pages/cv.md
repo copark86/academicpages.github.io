@@ -9,7 +9,7 @@ redirect_from:
 
 Short version pdf [download](http://copark86.github.io/files/CV_Chanoh_Park.pdf)
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://copark86.github.io/files/CV_Chanoh_Park.pdf" width="500" height="875">
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://copark86.github.io/files/CV_Chanoh_Park.pdf" width="500" height="1075">
 
 CV long version
 =====
