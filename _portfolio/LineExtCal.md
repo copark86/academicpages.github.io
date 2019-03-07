@@ -1,6 +1,6 @@
 ---
 title: "Laser line profiler extrinsic finder using conical target"
-excerpt: "Extrinsic finder<br/><img src='/images/calib_main.png'>"
+excerpt: "Extrinsic finder"
 date: 2013-01-01
 collection: portfolio
 ---
